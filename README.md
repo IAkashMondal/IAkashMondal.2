@@ -20,7 +20,6 @@ My personal portfolio which features some of my github projects as well as my re
 
 <div align="center">
   
-  ![ProjectPage](https://user-images.githubusercontent.com/101566628/185582752-7e188378-60d3-4713-bb17-1ff55841d3b5.png)
 
 </div>
 

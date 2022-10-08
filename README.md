@@ -3,7 +3,7 @@
 </h2>
 <div align="center">
   
-  ![HomePage](https://user-images.githubusercontent.com/101566628/185582811-9ad8e4ef-049f-44f5-9cb0-d72739005aba.png)
+
 
 </div>
 
@@ -11,8 +11,7 @@
 
 <center>
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
+
 </center>
 
 ## Built With

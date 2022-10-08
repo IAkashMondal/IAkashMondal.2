@@ -14,13 +14,15 @@ function Footer() {
     <div id='contact'>
       <Particles/>
     <Container fluid className="footer">
+    
       <Row>
         <Col md="4" className="footer-copywright">
         <p className="contact-font  text-white d-flex flex-row"> Email : <a className="purple mailto" href="mailto:info.coldfired@gmail.com"><p  onClick={()=> {navigator.clipboard.writeText("info.coldfired@gmail.com") ;alert("Email id: info.coldfired@gmail.com coppied ") }} > info.coldfired@gmail.com <MdOutlineContentCopy/></p></a> </p>
         <p className="contact-font  text-white d-flex flex-row"> Phone no : <a className="purple mailto" href="8637838346"><p  onClick={()=> {navigator.clipboard.writeText("info.coldfired@gmail.com") ;alert("Phone no : 8637838346 coppied ") }} > +91 8637838346 <MdOutlineContentCopy/></p></a> </p>
         <p className="contact-font  text-white d-flex flex-row"> <IoLocationSharp/> <p>Address: </p> <p className="purple">{` Siliguri,India.`}</p></p>
         </Col>
-        <Col md="4" className="footer-copywright">
+        <Col md="4" className="footer-copywright border border-white rounded spacer">
+            <p className="header purple"><strong>Send me an Email</strong></p>
         <Form action="https://formspree.io/f/mgeqywna" method="POST" >
         <Form.Group className="mb-3" controlId="User name">
         <Form.Label className="purple">Username</Form.Label>

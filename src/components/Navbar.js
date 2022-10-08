@@ -4,7 +4,7 @@ import Nav from "react-bootstrap/Nav";
 import Container from "react-bootstrap/Container";
 import Button from "react-bootstrap/Button";
 import { FcContacts } from "react-icons/fc";
-import pdf from "../Assets/Resume.pdf"
+import pdf from "../Assets/AKASH_MONDAL_Resume.pdf"
 import {
   AiFillStar,
   AiOutlineHome,

@@ -65,4 +65,4 @@ Give a ⭐ if you like this website!
 
 ### Deployed Link.
 
-Click Here: <a href="https://srinivasbhat-portfolio.netlify.app/" target="_blank"><strong> PortFolio Deployed Link </strong></a>
+Click Here: <a href="https://iakashmondal.github.io/" target="_blank"><strong> PortFolio Deployed Link </strong></a>
